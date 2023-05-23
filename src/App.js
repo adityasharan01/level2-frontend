@@ -1,7 +1,8 @@
 import React from 'react';
 import { ThemeProvider } from './contexts/ThemeContext';
-import Header from './components/Main';
 import Main from './components/Header';
+import Header from './components/Main';
+
 
 
 const App = () => {
